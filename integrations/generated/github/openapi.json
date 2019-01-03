@@ -4,7 +4,7 @@
     "https"
   ],
   "host": "api.github.com",
-  "basePath": "/",
+  "basePath": "",
   "x-hasEquivalentPaths": true,
   "info": {
     "description": "Powerful collaboration, code review, and code management for open source and private projects.\n",
