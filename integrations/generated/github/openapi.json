@@ -7900,7 +7900,7 @@
       "get": {
         "description": "Get the authenticated user.",
         "parameters": [],
-        "security": ["oauth_2_0"],
+        "security": [{"oauth_2_0":{}}],
         "responses": {
           "200": {
             "description": "OK",
