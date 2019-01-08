@@ -39,9 +39,7 @@
   "consumes": [
     "application/json"
   ],
-  "produces": [
-    "application/json"
-  ],
+  "produces": [],
   "securityDefinitions": {
     "oauth_2_0": {
       "authorizationUrl": "https://github.com/login/oauth/authorize",
