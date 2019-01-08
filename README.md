@@ -1,5 +1,7 @@
 # DataFire Integrations
 
+integrations
+
 [![Travis][travis-image]][travis-link]
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://www.npmjs.com/package/datafire)
 
