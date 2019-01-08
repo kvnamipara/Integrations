@@ -36,9 +36,7 @@
   "externalDocs": {
     "url": "https://developer.github.com/v3/"
   },
-  "consumes": [
-    "application/json"
-  ],
+  "consumes": [],
   "produces": [],
   "securityDefinitions": {
     "oauth_2_0": {
