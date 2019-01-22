@@ -12092,7 +12092,6 @@
       "type": "array"
     },
     "hook": {
-      "items": {
         "properties": {
           "active": {
             "type": "boolean"
@@ -12149,8 +12148,6 @@
           }
         },
         "type": "object"
-      },
-      "type": "array"
     },
     "hookBody": {
       "properties": {
